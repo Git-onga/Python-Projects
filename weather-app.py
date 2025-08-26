@@ -19,7 +19,7 @@ class WeatherApp:
         self.root.configure(bg="#f0f0f0")
         
         # API key for OpenWeatherMap (you need to get your own free key from https://openweathermap.org/api)
-        self.api_key = "94a7d7091811438410aac9131bb9a155"  # Replace with your actual API key
+        self.api_key = "replace this with openwathermap API key"  # Replace with your actual API key
         
         # Default city
         self.current_city = "London"
